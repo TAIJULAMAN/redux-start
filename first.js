@@ -46,7 +46,7 @@ const render = () => {
 }
 render();
 store.subscribe(render)
-
+ 
 
 // creating the action
 const incrementAction = () => {
